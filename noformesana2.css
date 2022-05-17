@@ -1,0 +1,36 @@
+
+
+body {
+    background-image: url("background2.jpg");
+
+  }
+  div {
+    width: 1200px;
+    border: 20px solid white;
+    padding: 50px;
+    margin: 20px;
+    content: 200px;
+  }
+
+  a:link {
+    color: lime;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: lime;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }

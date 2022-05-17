@@ -1,0 +1,39 @@
+
+
+body {
+    background-image: url("amogus.jpg");
+
+  }
+  div {
+    width: 1200px;
+    border: 20px solid white;
+    padding: 50px;
+    margin: 20px;
+    content: 200px;
+  }
+
+  a:link {
+    color: rgb(26, 230, 128);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: springgreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: snow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: royalblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  body.other-page {background:url('background3.png') no-repeat;}
+  body.home-page {background:url('background4.png') ;}
+  /*https://stackoverflow.com/questions/20396632/css-two-different-backgrounds-on-two-pages
